@@ -5,11 +5,11 @@ require 'leankit_kanban_wrapper/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "leankit_kanban_wrapper"
-  gem.version       = LeankitKanbanWrapper::VERSION
+  gem.version       = VERSION
   gem.authors       = ["Jose Luis Ordiales Coscia"]
-  gem.email         = ["joseluis.ordiales@tallertechnologies.pe"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.email         = ["jlordiales@gmail.com"]
+  gem.description   = %q{Ruby wrapper around the Leankit Kaban REST API}
+  gem.summary       = %q{This gem provides convenience methods to access Leankit Kanban API}
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
