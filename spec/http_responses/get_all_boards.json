@@ -1,0 +1,92 @@
+{
+   "ReplyData":[
+      [
+         {
+            "Id":1,
+            "Title":"B1",
+            "Description":null,
+            "IsArchived":false,
+            "CreationDate":"29/05/2012",
+            "IsBreakoutBoard":false,
+            "ParentId":0,
+            "DrillThroughBoards":[
+
+            ],
+            "BreakoutBoards":null,
+            "IsPrivate":false
+         },
+         {
+            "Id":2,
+            "Title":"B2",
+            "Description":null,
+            "IsArchived":false,
+            "CreationDate":"09/06/2012",
+            "IsBreakoutBoard":false,
+            "ParentId":0,
+            "DrillThroughBoards":[
+
+            ],
+            "BreakoutBoards":null,
+            "IsPrivate":false
+         },
+         {
+            "Id":3,
+            "Title":"B3",
+            "Description":null,
+            "IsArchived":false,
+            "CreationDate":"14/12/2012",
+            "IsBreakoutBoard":false,
+            "ParentId":0,
+            "DrillThroughBoards":[
+
+            ],
+            "BreakoutBoards":null,
+            "IsPrivate":false
+         },
+         {
+            "Id":4,
+            "Title":"B4",
+            "Description":null,
+            "IsArchived":false,
+            "CreationDate":"03/01/2013",
+            "IsBreakoutBoard":false,
+            "ParentId":0,
+            "DrillThroughBoards":[
+
+            ],
+            "BreakoutBoards":null,
+            "IsPrivate":false
+         },
+         {
+            "Id":5,
+            "Title":"B5",
+            "Description":null,
+            "IsArchived":false,
+            "CreationDate":"14/02/2013",
+            "IsBreakoutBoard":false,
+            "ParentId":0,
+            "DrillThroughBoards":[
+
+            ],
+            "BreakoutBoards":null,
+            "IsPrivate":false
+         },
+         {
+            "Id":6,
+            "Title":"B6",
+            "Description":null,
+            "IsArchived":false,
+            "CreationDate":"15/02/2013",
+            "IsBreakoutBoard":false,
+            "ParentId":0,
+            "DrillThroughBoards":[
+
+            ],
+            "BreakoutBoards":null,
+            "IsPrivate":false
+         }
+      ]
+   ],
+   "ReplyCode":200,
+   "ReplyText":"Board(s) successfully retrieved."
+}
